@@ -23,3 +23,6 @@ def hello():
 <h1>hello world</h1>
 <p>h<hb>ello<p/>
 ```
+'''python
+hello()
+'''
